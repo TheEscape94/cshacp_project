@@ -1,0 +1,8 @@
+C:\Users\student\Documents\Visual Studio 2012\Projects\SkolaJezikaConsole\SkolaJezikaConsole\bin\Debug\SkolaJezikaConsole.exe.config
+C:\Users\student\Documents\Visual Studio 2012\Projects\SkolaJezikaConsole\SkolaJezikaConsole\obj\Debug\SkolaJezikaConsole.csprojResolveAssemblyReference.cache
+E:\sf25-2015\SkolaJezikaConsole\SkolaJezikaConsole\bin\Debug\SkolaJezikaConsole.exe.config
+E:\sf25-2015\SkolaJezikaConsole\SkolaJezikaConsole\obj\Debug\SkolaJezikaConsole.csprojResolveAssemblyReference.cache
+E:\sf25-2015\SkolaJezikaConsole\SkolaJezikaConsole\bin\Debug\SkolaJezikaConsole.exe
+E:\sf25-2015\SkolaJezikaConsole\SkolaJezikaConsole\bin\Debug\SkolaJezikaConsole.pdb
+E:\sf25-2015\SkolaJezikaConsole\SkolaJezikaConsole\obj\Debug\SkolaJezikaConsole.exe
+E:\sf25-2015\SkolaJezikaConsole\SkolaJezikaConsole\obj\Debug\SkolaJezikaConsole.pdb
